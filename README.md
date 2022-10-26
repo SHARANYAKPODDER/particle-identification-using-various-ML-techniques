@@ -6,3 +6,5 @@ Different particle types remain different responses in the detector systems or s
 Now, the main task is to identify a particle type using the responses in the detector systems.
 
 I have done the above course project during my course-work "Artificial Intelligence(DSE313)" while studying at Indian Institute of Science Educatioon and Research(IISER) Bhopal in the 3rd year of my BS in Data Science. In this course project my teammate was Saswata Sarkar, he has done the Keras part and rest of the code including data preprocessing and SKlearnClassifier was done by me.
+
+This project was inspired by the course in Coursera, mentioned here- "Addressing Large Hadron Collider Challenges by Machine Learning".
